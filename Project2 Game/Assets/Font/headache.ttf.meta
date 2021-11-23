@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e2911da52b20c4311b5d6b9182ba7243
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tom's Headache
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 713ee9b1b1b51f9448db5036f9b4a5c2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
